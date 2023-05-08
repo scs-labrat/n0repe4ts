@@ -1,5 +1,6 @@
 # n0repe4ts
 ---
+![n0repe4ts](n0repe4ts.png)
 As a kneejerk to a post I read I decided to throw this together for shits & giggles.
 
 ## Installation
